@@ -4,9 +4,9 @@ class Dog
   def initialize(name)
     @name = name
   end
-  def .clear_all
+  def clear_all
   end
   def self.all
-    puts 
+    puts
   end
 end
